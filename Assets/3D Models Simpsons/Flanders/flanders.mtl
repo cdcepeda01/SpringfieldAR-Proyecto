@@ -1,0 +1,20 @@
+# Material file for flanders.obj
+
+newmtl fland
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd ffaa31e9.png
+
+newmtl as
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd PCSX2-R4600.EXE_0x87AD5D2E.png
+

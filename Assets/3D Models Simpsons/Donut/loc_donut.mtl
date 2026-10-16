@@ -1,0 +1,8 @@
+# Asura Explorer export — Strippedloc_donut
+
+newmtl loc_donut_body
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+d 1.0
+illum 1
+map_Kd loc_donut_body.png

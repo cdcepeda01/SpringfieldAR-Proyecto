@@ -1,0 +1,6 @@
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl eyeball_m
+Kd 1 1 1
+map_Kd eyeball.bmp.0.png
